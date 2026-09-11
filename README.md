@@ -6,12 +6,13 @@ This project uses Python to scrape population statistics by country from the Wor
 
 The project:
 
-1. Sends a request to the webpage.
-2. parses the webpage HTML with Beautiful Soup.
+1. Sends a request to the webpage using UTF-8 encoding.
+2. Parses the webpage HTML with Beautiful Soup.
 3. Locates the population table.
-4. Extracts the column headings and rows.
-5. Stores the results in a pandas DataFrame.
-6. Exports the completed dataset as a CSV file.
+4. Extracts and cleans the column headings and rows.
+5. Standardizes Unicode minus signs.
+6. Stores the results in a pandas DataFrame.
+7. Exports the completed dataset as a UTF-8 encoded CSV file.
 
 ## Data Source
 
