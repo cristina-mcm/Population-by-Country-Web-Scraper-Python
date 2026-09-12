@@ -20,6 +20,15 @@ The project:
 
 The table includes population, yearly change, land area, population density, fertility rate, median age, urban population, and world population share.
 
+## Table on the website
+
+<img width="1111" height="266" alt="image" src="https://github.com/user-attachments/assets/62b00ce1-5683-4ebe-a6d7-b47b8a8b4276" />
+
+## CSV Table
+
+<img width="1172" height="142" alt="image" src="https://github.com/user-attachments/assets/3394e0c6-a618-4c4f-ba92-5a7998654079" />
+
+
 ## Tools Used
 
 - Python
@@ -36,4 +45,4 @@ The table includes population, yearly change, land area, population density, fer
 
 ## Acknowledgement
 
-This was completed as a guided project based on Alex The Analyst's Data Analyst Bootcamp tutorial, using a different website and dataset for additional practice.
+This was completed as a guided project based on Alex The Analyst's Data Analyst Bootcamp tutorial, using a different website and dataset and with a few changes to the code.
